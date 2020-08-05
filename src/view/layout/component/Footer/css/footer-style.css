@@ -1,0 +1,24 @@
+
+.h-custom{
+    font-weight: normal;
+}
+
+.site-footer {
+    padding: 3em 15px 0.5em 15px;
+    margin-top: 3em;
+    /* position: fixed; */
+    background: #e9e9e9;
+    color: #49654e;}
+    .site-footer .footer-heading {
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: #49654e !important;
+     }
+    .site-footer a {
+      color: #49654e;}
+      .site-footer a:hover {
+        color: #212c23;
+        text-decoration: none; }
+    .site-footer ul li {
+      margin-bottom: 10px; }
